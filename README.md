@@ -11,8 +11,6 @@ Este projeto traz uma visão dos principais motivadores que faz um cliente aband
 ## 2. Resumo Executivo
 ### 2.1 Principais Insights da EDA
 
-### 2.1 Principais Insights da EDA
-
 Na análise exploratória de dados, foram identificados os seguintes pontos:
 
 - **Reclamações como principal fator de abandono**: aproximadamente metade
@@ -44,8 +42,3 @@ Para este negócio, eu julgo que é muito mais custoso um cliente abandonar a ap
 Com tudo isso em mente o modelo recomendado para este negócio é o Knn, pois foi o modelo que apresentou a maior taxa de distribuição de cupons para o clientes prestes a abandonar o aplicativo e a maior taxa de distribuição de cupons desnecessários
 
 Caso discordem da minha análise e julguem que é mais importante ter uma menor distribuição de cupons desnecessários em troca de uma menor taxa de distribuição de cupons para clientes prestes a abandonar o aplicativo, o modelo Decision Tree deve ser utilizado em produção.
-
-## 3. Dataset
-## 4. Metodologia
-## 5. Como Executar
-## 6. Tecnologias Utilizadas
